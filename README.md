@@ -1,0 +1,5 @@
+# BeansAutoWiringByName
+
+SpringBeansAutoWiringByName
+
+autowire="byName"
